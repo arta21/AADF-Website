@@ -1,0 +1,52 @@
+.brands-container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    align-items: center;
+    height: 140px;
+    margin-top: 150px;
+}
+
+.brand {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.brand-1 {
+    background-image: url(../image/AADF_partnerLogo_AAEF1.png);
+}
+
+.brand-2 {
+    background-image: url(../image/AADF_partnerLogo_AlbPrime1.png);
+}
+
+.brand-3 {
+    background-image: url(../image/AADF_partnerLogo_JA1.png);
+
+}
+
+.brand-4 {
+    background-image: url(../image/AADF_partnerLogo_LEAD1.png);
+
+}
+
+.brand-5 {
+    background-image: url(../image/AADF_partnerLogo_protik1.png);
+
+}
+
+.brand-6 {
+    background-image: url(../image/AADF_partnerLogo_USAID.png);
+
+}
+
+
+
